@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: aquamarine;
+    background-color: blueviolet;
+    
+}
